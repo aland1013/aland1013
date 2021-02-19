@@ -6,7 +6,7 @@ You can find out more about me **[here](https://resume.creddle.io/resume/9a2yn8j
 Tech Stack
 - Languages: JavaScript | Python | TypeScript | Solidity
 - Front End: HTML | CSS | React | Redux | ContextAPI | Less | Material UI | Semantic UI | Bootstrap
-- BVack End: Node | Express | SQL | PostgreSQL | SQLite | Knex | MongoDB | GraphQL | Apollo GraphQL
+- Back End: Node | Express | SQL | PostgreSQL | SQLite | Knex | MongoDB | GraphQL | Apollo GraphQL
 - Blockchain: Hardhat | Remix | Truffle | Ganache
 - Testing: Jest | Cypress | Postman | React Testing Library
 - DevOps: Git | GitHub | Docker | Kubernetes
