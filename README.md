@@ -11,7 +11,7 @@ Tech Stack
 - Testing: Jest | Cypress | Postman | React Testing Library
 - DevOps: Git | GitHub | Docker | Kubernetes
 
-Find me around the web:
+Find me on the web:
 - Twitter: **[@a_b_land](https://twitter.com/a_b_land)**
 - LinkedIn: <https://www.linkedin.com/in/adamland/>
 
